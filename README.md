@@ -6,7 +6,7 @@
 
 # Bora codar desagio 11
 
-O projeto é uma pagina de login para acessar uma aplicação web. mito interesante treinar esse componen 
+O projeto é uma pagina de login para acessar uma aplicação web. muito interesante treinar esse componente
 
 ![preview](./.github/Cover.jpg)
 

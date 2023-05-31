@@ -8,6 +8,6 @@
 
 O projeto é uma pagina de login para acessar uma aplicação web. mito interesante treinar esse componen 
 
-![preview](./.github/Cover.png)
+![preview](./.github/Cover.jpg)
 
     
